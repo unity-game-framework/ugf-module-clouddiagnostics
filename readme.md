@@ -4,13 +4,15 @@ UGF.Module.CloudDiagnostics
 
 ## Information
 
-- **Version**: `0.0.0-preview`
+- **Version**: `1.0.0-preview`
 - **Unity**: `2022.2`
 - **API Compatibility Level**: `.NET Standard 2.1`
 
 ### Dependencies
 
-- N/A
+- `com.ugf.module.services`: `1.0.0-preview.1`
+- `com.ugf.editortools`: `2.15.0`
+- `com.unity.services.cloud-diagnostics`: `1.0.5`
 
 
 ### Description
