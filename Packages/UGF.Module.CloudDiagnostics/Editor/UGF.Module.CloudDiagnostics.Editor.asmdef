@@ -1,0 +1,19 @@
+{
+    "name": "UGF.Module.CloudDiagnostics.Editor",
+    "rootNamespace": "UGF.Module.CloudDiagnostics.Editor",
+    "references": [
+        "GUID:7e30aa2f8cabbb441b414d56501b8563",
+        "GUID:abdd615e45137c74ca2ce9c636c78c15"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
