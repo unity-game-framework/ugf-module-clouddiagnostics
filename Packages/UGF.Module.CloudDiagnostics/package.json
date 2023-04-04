@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "com.ugf.module.services": "1.0.0-preview.1",
+    "com.ugf.editortools": "2.15.0",
     "com.unity.services.cloud-diagnostics": "1.0.5"
   }
 }
